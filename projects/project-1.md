@@ -5,12 +5,12 @@ image: images/micromouse.jpg
 title: Micromouse
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-09-01
 labels:
-  - Robotics
-  - Arduino
+  - Object Oriented Programming
+  - SFML
   - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: “RatAttack” is a 3rd person shooter game created with C++ and SFML (Simple and Fast Multimedia Library).
 ---
 
 <div class="ui small rounded images">
