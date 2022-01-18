@@ -10,6 +10,7 @@ labels:
   - Object Oriented Programming
   - SFML
   - C++
+  - Github
 summary: “RatAttack” is a 3rd person shooter game created with C++ and SFML (Simple and Fast Multimedia Library).
 ---
 
