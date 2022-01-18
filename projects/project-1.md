@@ -14,7 +14,7 @@ labels:
 summary: “RatAttack” is a 3rd person shooter game created with C++ and SFML (Simple and Fast Multimedia Library).
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/menuBG.jpg">
 </div>
 
