@@ -14,31 +14,33 @@ summary: “RatAttack” is a 3rd person shooter game created with C++ and SFML 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/Screen Shot 2022-01-17 at 3.33.48 PM.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+"The Following" is a third person zombie shooter game. Players will have to maneuver through the city to get to the end objective without getting touched by a zombie. Each player will be able to choose one of three characters, all of which is able to walk, run, shoot and has HP. The three characters are kid, teen or adult, each with a special move stink bomb used to hurt a wide spread of zombies, distraction that distracts zombies, and power lungs that blasts the zombies away, respectively. In addition, the player will be able to use one of three guns in the beginning, which are able to shoot and reload. The three guns are pistol which is able shoot in close ranges, marksman rifle for single far shots, and automatic gun for automatic far shots. As the level progress ammo will randomly spawn on a map that the player can use with a gun.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+This project was created to introduce us to Object Oriented Programming techniques. 
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
+OOP techniques implemented :  
+    Classes
+    Inheritance and composition
+    Character is a kid (inheritance)
+    Pistol is a gun (inheritance)
+    Kid has a gun	(composition)
+    Kid has a stink bomb (composition)
+    RAII: Constructors and destructors
+    Storing data: vectors, Queues, stacks, list, map
+    Abstract classes
+    Encapsulation (class gun, and character)
+    Getters and setters to get input from user
+    Interfaces
+    STD, iostreams
+    Random
+    lifecycle
+    Malloc, free, new
+    Overloading functions
+    Polymorphism to functions in classes
+    Class privacy
+    Templates
 
 
