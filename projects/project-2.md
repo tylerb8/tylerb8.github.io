@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/iris-dataset.png
+image: images/iris-mainImage.jpg
 title: Iris Dataset
 permalink: projects/iris
 date: 2021-07-11
