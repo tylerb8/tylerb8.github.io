@@ -8,18 +8,19 @@ date: 2021-07-11
 labels:
   - Python
   - Jupyter Notebook
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: Single Neuron Networks: Iris DataSet
 ---
 
 
+## Introduction
 Neural Networks, are computational algorithms or models designed as per the structure of the human brain.  
 In the Perceptron notebook we learned how to build simple neural networks "one-neuron networks". Where for each neuron, we trained the neuron (ie set the weights) by minimizing a different kind of loss function for each model. We built each neuron with the help of keras, and gradient descent to learn the weight.
 
-The three basic models we learned in class with their loss function:
+### The three basic models we learned in class with their loss function:
 
  1. Perceptron: activation is linear, train by minimizing the ramp loss = max(0, -y_true* y_predicted)  
-2. The Linear Regression classifier (Fisher Discriminant): activation is linear, train by minimizing square loss (y_true - y_predicted)^2  
-3. Support vector machine: activation is linear (for now). We train by minimizing the hinge loss = max(0, 1- y_true* y_predicted), but to the hinge loss, we add a (1/C)||w||^2 term, where C is some constant. In machine learning parlance, adding a ||w||^2 term to the loss is called l2 regularization. So this is a single neuron, linear activation, trained using hinge loss with l2 regularization.
+ 2. The Linear Regression classifier (Fisher Discriminant): activation is linear, train by minimizing square loss (y_true - y_predicted)^2  
+ 3. Support vector machine: activation is linear (for now). We train by minimizing the hinge loss = max(0, 1- y_true* y_predicted), but to the hinge loss, we add a (1/C)||w||^2 term, where C is some constant. In machine learning parlance, adding a ||w||^2 term to the loss is called l2 regularization. So this is a single neuron, linear activation, trained using hinge loss with l2 regularization.
 
 ## Iris dataset
 
@@ -49,4 +50,7 @@ The two linearly Separable classes are sepal width (feature 1) and petal length 
     ax.view_init(45,45)
     ```
     
-  <img class="ui medium right floated rounded image" src="../images/Iris1.png">
+<img class="ui medium right floated rounded image" src="../Iris1.png">
+
+
+
