@@ -6,10 +6,10 @@ title: Iris Dataset
 permalink: projects/iris
 date: 2021-07-11
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Python
+  - Jupyter Notebook
+  - Keras
+summary: Single Neuron Networks: Iris DataSet
 ---
 
 ## Welcome
