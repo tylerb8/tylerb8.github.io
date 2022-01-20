@@ -16,7 +16,7 @@ summary: Designed and developed an automatic pill dispenser to allow users to or
 
 <img class="ui large centered image" src="../images/Pilldispensor.png">
 
-<div class="ui medium rounded images">
+<div class="ui small rounded images">
   <img class="ui image" src="../images/pill1.png">
   <img class="ui image" src="../images/pill2.png">
   <img class="ui image" src="../images/pill3.png">
