@@ -65,6 +65,12 @@ ax.view_init(45,45)
  4. The learning rate (rate at which weights are updated) is defined by w = w+a(target-output)X, where a is the learning rate, target is the true class label, and output is the predicted class label 5. All weights in the weight vector are updated simultaneously
 
 
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/Iris2.png">
+  <img class="ui image" src="../images/Iris3.png">
+  <img class="ui image" src="../images/Iris4.png">
+</div>
+
 ------------------------------ STEP 1 ------------------------------
 
 ### Create Model  
