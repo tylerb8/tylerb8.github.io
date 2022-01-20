@@ -6,11 +6,7 @@ title: Iris Dataset
 permalink: projects/iris
 date: 2021-07-11
 labels:
-  - Python
-  - Jupyter Notebook
-  - Keras
-
-summary: Single Neuron Networks: Iris DataSet
+summary: 
 ---
 
 <img class="ui large centered image" src="../images/iris-dataset.png">
