@@ -2,13 +2,12 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Iris Dataset
 permalink: projects/iris
 date: 2021-07-11
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Python
+  - Jupyter Notebook
 summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
 ---
 
