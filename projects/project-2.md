@@ -10,7 +10,7 @@ labels:
   - Jupyter Notebook
   - Keras
   - Classification
-summary: Single Neuron Networks - Iris Dataset
+summary: Used a Single Neuron Network along with the Iris Dataset to classify 3 different classes of flowers each with 50 photos each. This project uses a perceptron, Fisher Discriminant, and Support Vector Machine. 
 ---
 
 
