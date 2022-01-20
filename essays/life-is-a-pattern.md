@@ -1,3 +1,17 @@
+---
+layout: essay
+type: essay
+title: Life is a pattern
+# All dates must be YYYY-MM-DD format!
+date: 2022-01-20
+labels:
+  - Software engineering
+  - Athletic software engineering
+  - Patterns in Nature
+  - Machine Learning
+---
+
+
 ## The future is now
 
 When most people think of the future (2022), they say words like metaverse, blockchain, lab-made foods, artificial intelligence, and the list goes on. But one common thing that all future innovations share: STEM. Innovations are meant to introduce a new idea that will hopefully improve the value of society or the world. In modern society, one innovation that we have found helpful that has embedded itself in almost all items is technology. Things like a refrigerator can now let users know when they are running low on certain foods, and retail stores use machine learning models to predict what customers may want before they think of it. In addition, especially in times like this, people are also creating machine learning models to explore the mortality risk of covid-19. 
