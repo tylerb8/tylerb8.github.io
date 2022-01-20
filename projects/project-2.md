@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/iris-dataset.png
 title: Iris Dataset
-permalink: projects/Iris
+permalink: projects/iris
 # All dates must be YYYY-MM-DD format!
 date: 2021-07-11
 labels:
