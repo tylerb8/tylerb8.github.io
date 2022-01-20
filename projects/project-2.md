@@ -2,9 +2,9 @@
 layout: project
 type: project
 image: images/iris-dataset.png
-title: Micromouse
-permalink: projects/micromouse
-date: 2015-07-01
+title: Iris Dataset
+permalink: projects/iris
+date: 2021-07-11
 labels:
   - Robotics
   - Arduino
