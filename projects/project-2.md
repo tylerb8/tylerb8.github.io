@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/iris-dataset.png
 title: Iris Dataset
 permalink: projects/iris
 date: 2021-07-11
@@ -28,27 +28,6 @@ In this lab we used the Iris dataset which contains 3 classes with 50 instances 
 
 The two linearly Separable classes are sepal width (feature 1) and petal length (feature 2)
 
-    ``` python
-    # What the Iris dataset looks like plotted 
-    
-    from sklearn import datasets iris = datasets.load_iris() print(dir(iris))
-    import matplotlib.pyplot as plt from mpl_toolkits import mplot3d
-    
-
-    fig = plt.figure()  
-    display(fig)  
-    ax = plt.axes(projection='3d')  
-    figiris = ax.scatter(iris.data[:,0],iris.data[:,1],iris.data[:,2],c=iris.target) 
-    ax.set_xlabel(iris.feature_names[1]+' (1)') 
-    ax.set_ylabel(iris.feature_names[2]+' (2)') 
-    ax.set_zlabel(iris.feature_names[0]+' (0))')
-
-    # this adjusts the space around the plot so we can read the z label 
-    plt.gcf().subplots_adjust(left=-0.5,bottom=-0.3)
-
-    plt.colorbar(figiris) 
-    ax.view_init(45,45)
-    ```
     
 <img class="ui medium right floated rounded image" src="../iris1.png">
 
