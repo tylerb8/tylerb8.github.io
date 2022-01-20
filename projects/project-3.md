@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Pilldispensor.png
+image: images/Pilldispensor-mainImage.png
 title: Pill Dispensor
 permalink: projects/pill-dispensor
 date: 2020-12-13
