@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/iris-dataset.png
-title: Iris Dataset
+title: iris
 permalink: projects/iris
-# All dates must be YYYY-MM-DD format!
-date: 2019-07-11
+date: 2021-07-11
 labels:
   - Python
   - Jupyter Notebook
+  - Iris Dataset
+  - Machine Learning
   - Keras
-  - Classification
 summary: Single Neuron Networks: Iris DataSet
 ---
 
