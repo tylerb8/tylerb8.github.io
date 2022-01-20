@@ -10,7 +10,7 @@ labels:
   - Jupyter Notebook
   - Keras
   - Classification
-summary: 
+summary: Single Neuron Networks - Iris Dataset
 ---
 
 
