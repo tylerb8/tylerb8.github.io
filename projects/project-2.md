@@ -18,9 +18,9 @@ In the Perceptron notebook we learned how to build simple neural networks "one-n
 
 ### The three basic models we learned in class with their loss function:
 
- 1. Perceptron: activation is linear, train by minimizing the ramp loss = max(0, -y_true* y_predicted)  
- 2. The Linear Regression classifier (Fisher Discriminant): activation is linear, train by minimizing square loss (y_true - y_predicted)^2  
- 3. Support vector machine: activation is linear (for now). We train by minimizing the hinge loss = max(0, 1- y_true* y_predicted), but to the hinge loss, we add a (1/C)||w||^2 term, where C is some constant. In machine learning parlance, adding a ||w||^2 term to the loss is called l2 regularization. So this is a single neuron, linear activation, trained using hinge loss with l2 regularization.
+ - Perceptron: activation is linear, train by minimizing the ramp loss = max(0, -y_true* y_predicted)  
+ - The Linear Regression classifier (Fisher Discriminant): activation is linear, train by minimizing square loss (y_true - y_predicted)^2  
+ - Support vector machine: activation is linear (for now). We train by minimizing the hinge loss = max(0, 1- y_true* y_predicted), but to the hinge loss, we add a (1/C)||w||^2 term, where C is some constant. In machine learning parlance, adding a ||w||^2 term to the loss is called l2 regularization. So this is a single neuron, linear activation, trained using hinge loss with l2 regularization.
 
 ## Iris dataset
 
@@ -28,7 +28,7 @@ In this lab we used the Iris dataset which contains 3 classes with 50 instances 
 
 The two linearly Separable classes are sepal width (feature 1) and petal length (feature 2)
 
-    ```
+    ``` python
     # What the Iris dataset looks like plotted 
     
     from sklearn import datasets iris = datasets.load_iris() print(dir(iris))
@@ -50,7 +50,7 @@ The two linearly Separable classes are sepal width (feature 1) and petal length 
     ax.view_init(45,45)
     ```
     
-<img class="ui medium right floated rounded image" src="../Iris1.png">
+<img class="ui medium right floated rounded image" src="../iris1.png">
 
 
 
