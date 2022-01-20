@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/RatAttack-Menu.jpg
 title: RatAttack
-permalink: https://github.com/tylerb8/RatAttack
+permalink: projects/RatAttack
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-01
 labels:
