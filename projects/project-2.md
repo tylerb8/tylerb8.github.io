@@ -1,17 +1,15 @@
 ---
 layout: project
 type: project
-image: images/iris-dataset.png
-title: test
+image: images/micromouse.jpg
+title: Micromouse
 permalink: projects/iris
-# All dates must be YYYY-MM-DD format!
 date: 2021-07-11
 labels:
-  - Python
-  - Juypter Notebook
-  - Keras
-  - Classification
-summary: Single Neuron Networks: Iris DataSet
+  - Robotics
+  - Arduino
+  - C++
+summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
 ---
 
 
