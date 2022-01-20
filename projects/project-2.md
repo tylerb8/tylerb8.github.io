@@ -6,8 +6,13 @@ title: Iris Dataset
 permalink: projects/iris
 date: 2021-07-11
 labels:
+  - Python
+  - Jupyter Notebook
+  - Keras
+  - Classification
 summary: 
 ---
+
 
 <img class="ui large centered image" src="../images/iris-dataset.png">
 
