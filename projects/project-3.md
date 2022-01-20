@@ -14,7 +14,10 @@ labels:
 summary: Designed and developed an automatic pill dispenser to allow users to organize and manage their medication safely. 
 ---
 
-<img class="ui large rounded image" src="../images/Pilldispensor.png">
+<img class="ui large centered image" src="../images/Pilldispensor.png">
+
+
+
 
 
 
