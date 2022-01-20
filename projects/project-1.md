@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/menuBG.jpg
+image: images/RatAttack-Menu.jpg
 title: RatAttack
 permalink: https://github.com/tylerb8/RatAttack
 # All dates must be YYYY-MM-DD format!
