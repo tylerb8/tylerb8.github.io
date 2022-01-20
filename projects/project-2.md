@@ -6,11 +6,11 @@ title: Iris Dataset
 permalink: projects/iris
 date: 2021-07-11
 labels:
-  - Python
-  - Jupyter Notebook
+  - Robotics
+  - Arduino
+  - C++
 summary: Single Neuron Networks: Iris DataSet
 ---
-
 
 ## Introduction
 Neural Networks, are computational algorithms or models designed as per the structure of the human brain.  
