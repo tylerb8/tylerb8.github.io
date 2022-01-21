@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/mnist-cover.png
+image: images/mnist1-cover.png
 title: MNIST Dataset
 permalink: projects/mnist
 date: 2021-12-14
