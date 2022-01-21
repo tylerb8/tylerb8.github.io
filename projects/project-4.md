@@ -15,6 +15,9 @@ labels:
 summary: Given an image, classify it as a digit (0-9) using machine learning and vision models 
 ---
 
+<img class="ui large centered image" src="../images/mnistop.png">
+
+
 ## Introduction
 This project was created as a self guided learning experience to gain a better understanding of using keras and the MNSIT dataset to create machine learning models. 
 
