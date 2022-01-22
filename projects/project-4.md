@@ -62,6 +62,7 @@ We start by instantiating a Sequential model:
     
     -   Relu activation: A piecewise linear function that will output the input directly if it is positive, otherwise, it will output zero. The rectified linear activation function overcomes the vanishing gradient problem, allowing models to learn faster and perform better.
     -   Softmax: turns arbitrary real values into probabilities. (Highest number is the most likely its the number)
+   
 ```python
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
@@ -74,7 +75,7 @@ model = Sequential([
 ```
 ### Compiling the Model
 
-``` python
+
 Before we can begin training, we need to configure the training process. We decide 3 key factors during the compilation step:
 
 -   The optimizer : The Adam gradient-based optimizer.
