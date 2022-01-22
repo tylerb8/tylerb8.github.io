@@ -26,7 +26,7 @@ The Iris dataset contains 3 classes with 50 instances each, where each class ref
 
 ### The two linearly Separable classes are sepal width (feature 1) and petal length (feature 2)
 
-```
+```python
 # What the Iris dataset looks like plotted 
     
 from sklearn import datasets iris = datasets.load_iris() print(dir(iris))
