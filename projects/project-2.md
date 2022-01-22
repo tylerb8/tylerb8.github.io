@@ -195,7 +195,14 @@ w = model.layers[0].get_weights()
 ## Support vector machine
 
 ```
-SVM works by creating a line which separates the classes in a classifcation problem.he goal of the line is to maximize the margin between the points on either sides of the "decision line". This seperation is done by minimizing the hinge loss = max(0, 1- y_true * y_predicted), but to the hinge loss, we add a (1/C)||w||power(2) term, where C is some constant. In machine learning parlance, adding a ||w||power(2) term to the loss is called l2 regularization. So this is a single neuron, linear activation, trained using hinge loss with l2 regularization.
+SVM works by creating a line which separates the classes in a classifcation 
+problem.he goal of the line is to maximize the margin between the points on 
+either sides of the "decision line". This seperation is done by minimizing 
+the hinge loss = max(0, 1- y_true * y_predicted), but to the hinge loss, 
+we add a (1/C)||w||power(2) term, where C is some constant. In machine 
+learning parlance, adding a ||w||power(2) term to the loss is called l2 
+regularization. So this is a single neuron, linear activation, trained 
+using hinge loss with l2 regularization.
 ```
 
 ------------------------------ STEP 1 ------------------------------
