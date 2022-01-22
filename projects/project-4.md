@@ -72,9 +72,9 @@ model = Sequential([
   Dense(10, activation='softmax'),
 ])
 ```
-
 ### Compiling the Model
 
+``` python
 Before we can begin training, we need to configure the training process. We decide 3 key factors during the compilation step:
 
 -   The optimizer : The Adam gradient-based optimizer.
