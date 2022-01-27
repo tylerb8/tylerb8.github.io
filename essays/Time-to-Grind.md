@@ -8,19 +8,19 @@ labels:
   - Software engineering
   - Athletic software engineering
   - Technical Interviews
-  - Javascript
+  - JavaScript
 ---
 
 ## So which language?
 
-As a student studying Computer Engineering, one question I get asked a lot from my friends and family is, “So I wanna learn how to program, What language should I learn first?”. I learned C, C++, Python, and now Javascript throughout my academic years. Therefore, since C/C++ was my first language, my answer would always be C/C++ to learn about pointers and allocating space and better understand procedural languages. However, after being introduced to python and now javascript, my views have changed. Javascript is a natural language and, therefore, straightforward to pick up and learn. It hides these abstract details and welcomes new programmers to the world of software engineering while using a high-level language. After only spending a couple of hours with javascript, I created simple programs and functions. One thing that is a bit tricky with javascript, like all languages, is that you need to learn their vocabulary and grammar, or in this case, javascript’s methods/properties, and syntax, respectively. However, this comes naturally through practice. Although, I personally think that C++ is much more powerful than Javascript since the programmer can control nearly every aspect of their computer’s processor and memory. Javascript is more effortless and relatively straightforward to learn. 
+As a student studying Computer Engineering, one question I get asked a lot from my friends and family is, “So I wanna learn how to program, What language should I learn first?”. I learned C, C++, Python, and now JavaScript throughout my academic years. Therefore, since C/C++ was my first language, my answer would always be C/C++ to learn about pointers and allocating space and better understand procedural languages. However, after being introduced to Python and now JavaScript, my views have changed. JavaScript is a natural language and, therefore, straightforward to pick up and learn. It hides these abstract details and welcomes new programmers to the world of software engineering while using a high-level language. After only spending a couple of hours with JavaScript, I created simple programs and functions. One thing that is a bit tricky with JavaScript, like all languages, is that you need to learn their vocabulary and grammar, or in this case, JavaScript’s methods/properties, and syntax, respectively. However, this comes naturally through practice. Although, I personally think that C++ is much more powerful than Javascript since the programmer can control nearly every aspect of their computer’s processor and memory. JavaScript is more effortless and relatively straightforward to learn. 
 
 
-## Why I like javascript better than C++
+## Why I like JavaScript better than C++
 
 ### Flexibility. Neet. Easy. 
 
-Javascript and C++ share many similarities in syntax, such as their use of semicolons at the end of statements and both allowing OOP (Object Oriented Programming). However, there are also many differences. When it comes to variables, C++ requires you to state what type of variable you are using (int, float, char, …), which allocates a certain amount of memory for that variable. On the other hand, Javascript is an untyped language which means it does not need to define the types of variables being used. But instead uses vocab such as var, let, and const before a variable. I enjoy javascript and think it's a great language to add to your collection due to its clear syntax, typeless variables, and availability. In addition with ES6, it allows you to write less code while doing more. 
+JavaScript and C++ share many similarities in syntax, such as their use of semicolons at the end of statements and both allowing OOP (Object Oriented Programming). However, there are also many differences. When it comes to variables, C++ requires you to state what type of variable you are using (int, float, char, …), which allocates a certain amount of memory for that variable. On the other hand, JavaScript is an untyped language which means it does not need to define the types of variables being used. But instead uses vocab such as var, let, and const before a variable. I enjoy JavaScript and think it's a great language to add to your collection due to its clear syntax, typeless variables, and availability. In addition with ES6, it allows you to write less code while doing more. 
 
 
 ## Time to get Fit
