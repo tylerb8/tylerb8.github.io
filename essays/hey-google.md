@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Hey Google..."
+title: Hey Google...
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-26
 labels:
