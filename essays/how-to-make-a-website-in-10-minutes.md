@@ -17,15 +17,15 @@ labels:
   So what is the difference between using HTML, CSS, and Semantic UI? Well let us visually see the differences:
 
 ### Website 1: HTML
-<img class="ui medium centered image" src="../images/html.png">
+<img class="ui large centered image" src="../images/html.png">
 The first website was created only using HTML (very bland and boring!) HTML allows you to add content and the structure of web content. It only includes text, links, and photos.
 
 ### Website 2: HTML + CSS
-<img class="ui medium centered image" src="../images/htmlCss1.png">
+<img class="ui large centered image" src="../images/htmlCss1.png">
 Now a bit better, but still bland! It uses HTML and CSS, where CSS is used to style and layout web pages, such as altering the fonts, colors, sizes, spacing, etc... In website 2, CSS adds floating images, adjusts the background color to a yellowish off-white, and changes the spacing. 
 
 ### Website 3: Semantic UI
-<img class="ui medium centered image" src="../images/Semantic.png">
+<img class="ui large centered image" src="../images/Semantic.png">
 Website 3 uses Semantic UI, which is gorgeous (compared to the others). In addition to looking better and having a navbar, it also simplifies the HTML code and offers you better performance with fewer lines of code. 
 
 For instance, the nav bar ONLY USES 6 LINES!!!!
