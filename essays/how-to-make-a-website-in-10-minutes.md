@@ -39,7 +39,7 @@ For instance, the nav bar ONLY USES 6 LINES!!!!
 ```
 
 ## Recreating Nike.com
-<img class="ui medium centered image" src="../images/Nikecopy.png">
+<img class="ui large centered image" src="../images/Nikecopy.png">
 
 This is an example of a mock website of nike.com that I created as a homework assignment for ICS314 using semantic UI. When designing this website, I ran into many problems, such as using containers, grids, and aligning text and images. I thought the documentation was bland for the said classes, and I couldn't grasp the concepts and applications. This caused me to use a lot of margins and padding adjustments that didn't quite scale right when viewed on different display sizes. However, semantic UI did make my life way easier and made this website look similar to the original. What would have taken 20 lines was done using a quarter of lines, with the same effect. Additionally, this website was created only after a few days of exposure to semantic UI. Semantic UI uses meaningful and simplistic class names, which allows users to shorten their learning curve and develop projects more intuitively and faster. Overall, I do see the benefits of using Semantic UI; it helps users create a sleek, beautiful and responsive website while still being easy to use and very user friendly. 
 
