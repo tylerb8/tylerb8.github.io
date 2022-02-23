@@ -29,7 +29,7 @@ Now a bit better, but still bland! It uses HTML and CSS, where CSS is used to st
 Website 3 uses Semantic UI, which is gorgeous (compared to the others). In addition to looking better and having a navbar, it also simplifies the HTML code and offers you better performance with fewer lines of code. 
 
 For instance, the nav bar ONLY USES 6 LINES!!!!
-```c
+```html
 <div class="ui fixed top inverted four item menu" id="navbar">
  <a class="item" href="#Intro">Introduction</a>
  <a class="item" href="#IE">Internet Explorer</a>
