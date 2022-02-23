@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: how to make a website in 10 minutes
+title: How to Make a Website in 10 Minutes!
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-22
 labels:
