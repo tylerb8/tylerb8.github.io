@@ -35,10 +35,10 @@ The publish/subscribe pattern allows the exchange of messages between publishers
 - Model-View-Controller Design Pattern: 
 The Model-View-Controller (MVC) design pattern represents how the information is presented and accepted by the user. The user first uses the controller, which manipulates the model, and updates the view, which the user then sees. In our case, the controllers are the forms created using React Uniforms, which then manipulates the model (MongoDB) and finally updates the user’s view (React). 
 <br>
-### - Singleton Design Pattern:
+### Singleton Design Pattern:
 The singleton design pattern is used as a global variable/class. This provides only one instance but a global point of access to that instance. The singleton design pattern is used in our page components by exporting the created component to a page layout. One example is the Restaurant.jsx component which is used in the AllRestaurant.jsx page. The AllRestaurant.jsx page uses the Restaurant.jsx component as a template to list out all the restaurants as card components. 
 <br>
-### - Factory Design Pattern: 
+### Factory Design Pattern: 
 The factory design pattern provides an interface for creating objects in superclasses that can use subclasses to create the instance of the class. This allows us to create objects without exposing the underlying logic of the class. This is one of the four main design patterns and can be seen everywhere in our code. One example is creating a simple schema “RestaurantsCollections” in API/Restaurantscollections.js/ to define our variables in the collection. We then instantiated that API class in our files in our restaurant components and page directories. 
 
 
