@@ -17,7 +17,7 @@ labels:
 summary: Manoa Eats is a web application that will allow students and staff access to the different eateries information on campus and around Manoa area. 
 ---
 
-<img class="ui Large rounded images" src="../images/ManoaEats-Logo.png">
+<img class="ui large centered image" src="../images/ManoaEats-Logo.png">
 
 ### Please see [Manoa Eats GitHub organization page](https://manoa-eats.github.io) for more information on project. 
 
