@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://tylerb8.github.io/images/IMG_8228.JPG",
     "email": "tylerb8@hawaii.edu",
-    "phone": "808-349-7856",
+    "phone": "",
     "website": "https://tylerb8.github.io",
     "summary": "I am pursuing a B.S. in Computer Engineering and a Masters in Electrical Engineering from the College of Engineering at Unviersity of Hawai’i at Manoa. My expected graduation is in Spring 2024.",
     "location": {
@@ -49,12 +49,12 @@
       ]
     },
     {
-      "name": "Golfing",
+      "name": "Data Science",
       "keywords": [
       ]
     },
     {
-      "name": "Data Science",
+      "name": "Golfing",
       "keywords": [
       ]
     }
@@ -73,7 +73,13 @@
         "SFML",
         "Unix",
         "SystemVerilog",
-        
+        "HTML",
+        "CSS", 
+        "Javascript", 
+        "MongoDB",
+        "Semantic UI React",
+        "Meteor",
+        "TestCafe"
       ]
     },
     {
@@ -87,7 +93,9 @@
         "Jupyter Notebook",
         "MatLab",
         "Xilinx Vivado",
-        "Microsoft Office 365"
+        "Microsoft Office 365",
+        "IntelliJ IDEA",
+        "GitHub Desktop"
       ]
     }
   ],
@@ -100,12 +108,15 @@
       "endDate": "2023-05-13",
       "gpa": "4.0 (Major)",
       "courses": [
+        "ICS314 - Software Engineering"
         "EE205 - Object Oriented Programming",
         "EE324 - Physical Electronics",
         "EE361 - Digital Sys & Computer Design",
         "EE362 - Discrete Math for Engineers",
         "EE371 - Engineering Electromagnetics I",
-        "EE345 - Linear Algebra & Mach Learning"
+        "EE345 - Linear Algebra & Mach Learning",
+        "EE323 - Microelectronic Circuits",
+        "EE315 - Signal and Systems Analysis"
       ]
     }
   ],
@@ -163,6 +174,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "President of IEEE-HKN Eta Kappa Nu (Delta Omega Chapter)",
+      "date": "2022",
+      "awarder": "IEEE HKN",
+      "summary": "Eta Kappa Nu or IEEE-HKN is the international honor society of the Institute of Electrical and Electronics Engineers."
+    },
     {
       "title": "Dean's List",
       "date": "2020-Present",
