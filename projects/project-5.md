@@ -34,7 +34,7 @@ Manoa Eats will allow hardworking students to nourish their brains with UH’s n
 My contributions included creating the initial mockups for some pages of Manoa Eats. In addition to the following Pages (Pages shown Below):
 - Admin Verification page 
 - All Restaurant Page
-</br>
+<br />
 Additionally, I integrated TestCafe throughout the project to ensure that all pages displayed and forms worked for the correct input in your application. Our final project implements continuous integration using GitHub Actions. I also worked on the star rating reviews shown on the vendor page, created the modal "add a review" for the vendor, and cleaned the code from any broken or useless code. 
 
 
