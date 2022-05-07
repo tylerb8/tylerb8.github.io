@@ -44,11 +44,11 @@ This project taught me many things, from performing agile project management usi
 # Manoa Eats Page Screenshots
 
 ## Admin Verification Page
-<img class="ui Large rounded images" src="../images/ManoaEats-AdminVeri.png">
+<img class="ui medium rounded images" src="../images/ManoaEats-AdminVeri.png">
 
 ## All Restaurants Page
-<img class="ui Large rounded images" src="../images/ManoaEats-AllRest.png">
+<img class="ui medium rounded images" src="../images/ManoaEats-AllRest.png">
 
 ## Review Modal in restaurants card
-<img class="ui Large rounded images" src="../images/ManoaEats-ReviewModal.png">
+<img class="ui medium rounded images" src="../images/ManoaEats-ReviewModal.png">
 
