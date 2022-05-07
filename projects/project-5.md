@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/ManoaEats-Landing.png
 title: Manoa Eats
-permalink: projects/Manoa Eats
+permalink: projects/ManoaEats
 # All dates must be YYYY-MM-DD format!
 date: 2022-05-06
 labels:
