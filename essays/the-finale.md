@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: The Finale
 # All dates must be YYYY-MM-DD format!
-date: 2022-05-9
+date: 2022-05-09
 labels:
   - Software engineering
   - Technical Interviews
