@@ -6,7 +6,7 @@
     "email": "tylerb8@hawaii.edu",
     "phone": "",
     "website": "https://tylerb8.github.io",
-    "summary": "I am pursuing a B.S. in Computer Engineering and a Masters in Electrical Engineering from the College of Engineering at Unviersity of Hawai’i at Manoa. My expected graduation is in Spring 2024.",
+    "summary": "I am pursuing a B.S. in Computer Engineering and a Masters in Electrical Engineering from the College of Engineering at Unviersity of Hawai’i at Manoa. My expected graduation is in Spring 2023 and Spring 2024, respectively.",
     "location": {
       "address": "",
       "postalCode": "96817",
@@ -79,7 +79,8 @@
         "MongoDB",
         "Semantic UI React",
         "Meteor",
-        "TestCafe"
+        "TestCafe", 
+        "Verilog"
       ]
     },
     {
@@ -114,13 +115,45 @@
         "EE361 - Digital Sys & Computer Design",
         "EE362 - Discrete Math for Engineers",
         "EE371 - Engineering Electromagnetics I",
-        "EE345 - Linear Algebra & Mach Learning",
+        "EE345 - Linear Algebra & Mach Learning (TA)",
         "EE323 - Microelectronic Circuits",
-        "EE315 - Signal and Systems Analysis"
+        "EE315 - Signal and Systems Analysis",
+        "EE367 - Computer Data Structure and Algorithms",
+        "ICS314 - Software Engineering",
+        "EE468 - Operating Systems",
+        "EE660 - Advanced Computer Architecture",
+        "EE609 - Computer and Network Security",
+        "EE438 - Renewable Energy",
       ]
     }
   ],
   "work": [
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Online Distributed Federated Machine Laerning Project",
+      "website": "http://scel-hawaii.org",
+      "startDate": "2022-05-13",
+      "endDate": "Present",
+      "summary": "Online Distributed Federated Machine Laerning Project",
+      "highlights": [
+        "Research and development of Random Fourier Features (RFF) to reduce computational time and space complexity with large datasets aimed for secure distributive learning.",
+        "RFF achieved a 99% accuracy compared to the standard SVM kernel of 96% accuracy when tested with the MNIST dataset. 100% accuracy with the Iris Dataset.",
+        "Application in energy sector specifically in time series energy grid anomaly detection. Detection induced by unusual consumption patterns, faulty infrastructures, outages, external cyberattacks, and/or energy fraud."
+      ]
+    },
+    {
+      "company": "Revacomm",
+      "position": "Software Engineer Intern",
+      "website": "https://www.rvcm.com",
+      "startDate": "2022-05-13",
+      "endDate": "2022-08-10",
+      "summary": "Software Engineer Intern",
+      "highlights": [
+        "Created seven websites for the Honolulu Board of Water Supply and a content management system for the client.",
+        "Collaborated within an agile team structure, leading project manager and client review sprint meetings.",
+        "Developed a new dynamic web system saving client and company ~30% maintenance time for the duration of the project."
+      ]
+    },
     {
       "company": "University of Hawaii",
       "position": "Teaching Assistant for Linear Algebra and Machine Learning",
@@ -167,9 +200,11 @@
       "position": "Tutor",
       "startDate": "2021-08-13",
       "endDate": "Present",
-      "summary": "IEEE-HKN Engineering Tutoring",
+      "summary": "IEEE-HKN Engineering Honor Society",
       "highlights": [
-        "Weekly engineering course tutoring sessions hosted through College of Engineering discord."
+        "Collaborate with different organizations (IEEE, SWE, ASHRAE, ECUH, etc) to promote networking and soft skills.", 
+        "Provide daily peer-to-peer tutoring sessions for electrical and computer engineering undergraduate courses.", 
+        "Plan and execute 2 professional events per month for 10+ chapter members to improve their professional skills."
       ]
     }
   ],
@@ -182,7 +217,7 @@
     },
     {
       "title": "Dean's List",
-      "date": "2020-Present",
+      "date": "2020-2023",
       "awarder": "University of Hawaii",
       "summary": "Earn a semester GPA of 3.5 or higher based on 12 credits or more"
     },
